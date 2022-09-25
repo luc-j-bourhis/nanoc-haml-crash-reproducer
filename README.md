@@ -1,4 +1,5 @@
 % bundle exec nanoc
+
 Loading site… done
 Compiling site…
 
